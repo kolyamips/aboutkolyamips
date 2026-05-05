@@ -641,7 +641,7 @@ export default function App() {
 
             {/* Title */}
             <p className="text-center text-white/50 text-base font-light tracking-wide initial-hidden animate-fade-in delay-4">
-              Systems Architect / AI Auditor
+              Systems Architect / java developer
             </p>
 
             {/* Divider */}
