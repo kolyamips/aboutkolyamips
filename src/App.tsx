@@ -649,9 +649,9 @@ export default function App() {
 
             {/* Bio */}
             <p className="text-center text-white/35 text-sm leading-relaxed mb-8 initial-hidden animate-fade-in delay-5">
-              Creator of KolyamipsBrains.
+              watchdemo.
               <br />
-              Architect of Cognitive Singularity and System Autonomy.
+              .
             </p>
 
             {/* Social Links */}
